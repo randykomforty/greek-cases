@@ -1,0 +1,128 @@
+@import url("https://fonts.googleapis.com/css?family=Roboto&display=swap");
+.nom {
+  color: tomato;
+  text-shadow: 0px 0px 5px rgba(255, 99, 71, 0.5);
+  position: relative;
+}
+.nom:hover {
+  background: rgba(255, 99, 71, 0.2);
+  transition: background .5s;
+}
+
+.gen {
+  color: gold;
+  text-shadow: 0px 0px 5px rgba(255, 215, 0, 0.5);
+  position: relative;
+}
+.gen:hover {
+  background: rgba(255, 215, 0, 0.2);
+  transition: background .5s;
+}
+
+.acc {
+  color: limegreen;
+  text-shadow: 0px 0px 5px rgba(50, 205, 50, 0.5);
+  position: relative;
+}
+.acc:hover {
+  background: rgba(50, 205, 50, 0.2);
+  transition: background .5s;
+}
+
+.voc {
+  color: royalblue;
+  text-shadow: 0px 0px 5px rgba(65, 105, 225, 0.5);
+  position: relative;
+}
+.voc:hover {
+  background: rgba(65, 105, 225, 0.2);
+  transition: background .5s;
+}
+
+.m::before {
+  content: "masculine";
+  background: black;
+  position: absolute;
+  opacity: 0;
+  top: 0;
+}
+.m:hover::before {
+  opacity: 1;
+  top: -29px;
+  transition: opacity 2s, top .5s;
+}
+
+.f::before {
+  content: "feminine";
+  background: black;
+  position: absolute;
+  opacity: 0;
+  top: 0;
+}
+.f:hover::before {
+  opacity: 1;
+  top: -29px;
+  transition: opacity 2s, top .5s;
+}
+
+.n::before {
+  content: "neuter";
+  background: black;
+  position: absolute;
+  opacity: 0;
+  top: 0;
+}
+.n:hover::before {
+  opacity: 1;
+  top: -29px;
+  transition: opacity 2s, top .5s;
+}
+
+* {
+  margin: 0;
+  padding: 0;
+  border: 0;
+}
+
+body {
+  font-family: Roboto;
+  font-size: 1.5em;
+  background: #222;
+  color: gray;
+}
+
+button {
+  display: block;
+}
+
+#new-card {
+  color: sandybrown;
+  background: black;
+  font-size: 1em;
+  padding: 10px;
+  margin: 10px auto 0;
+}
+
+#legend {
+  background: white;
+  display: flex;
+  justify-content: space-between;
+}
+#legend li {
+  list-style: none;
+  background: black;
+  padding: 10px;
+  width: calc(25%);
+  text-align: center;
+}
+
+#sentence {
+  font-size: 1.5em;
+  background: black;
+  margin-top: 10px;
+  padding: 20px;
+}
+
+#sentence p + p {
+  margin-top: 20px;
+}
