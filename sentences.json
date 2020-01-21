@@ -1,0 +1,213 @@
+{
+	"data": [{
+			"example": "<span class='nom m sg'>Ο Κώστας</span> είναι <span class='nom m sg'>καλός</span>.",
+			"translation": "Kostas is good (nice).",
+			"source": "YOD0EBNOMu8"
+		},
+		{
+			"example": "<span class='nom m sg'>Ο Κώστας</span> είναι <span class='nom m sg'>καλός φίλος</span>.",
+			"translation": "Kostas is a good friend.",
+			"source": "YOD0EBNOMu8"
+		},
+		{
+			"example": "<span class='nom m sg'>Ο Κώστας</span> έχει <span class='acc m pl'>καλούς φίλους</span>.",
+			"translation": "Kostas has good friends.",
+			"source": "YOD0EBNOMu8"
+		},
+		{
+			"example": "<span class='nom m sg'>Ο φίλος</span> <span class='gen m sg'>του Κώστα</span> είναι <span class='nom m sg'>καλός</span>.",
+			"translation": "Kostas' friend is nice.",
+			"source": "YOD0EBNOMu8"
+		},
+		{
+			"example": "Ε! <span class='voc m sg'>Φίλε</span>!",
+			"translation": "Hey! Friend!",
+			"source": "YOD0EBNOMu8"
+		},
+		{
+			"example": "<span class='nom m sg'>Ο Κώστας</span> είναι <span class='nom m sg'>γιατρός</span>.",
+			"translation": "Kostas is a doctor.",
+			"source": "YOD0EBNOMu8"
+		},
+		{
+			"example": "<span class='nom f sg'>Η Μαρία</span> είναι <span class='nom f sg'>γιατρός</span>.",
+			"translation": "Maria is a doctor.",
+			"source": "YOD0EBNOMu8"
+		},
+		{
+			"example": "<span class='nom f sg'>Η Μαρία</span> είναι <span class='nom f sg'>φίλη</span> <span class='gen sg'>μου</span>.",
+			"translation": "Maria is my friend.",
+			"source": "YOD0EBNOMu8"
+		},
+		{
+			"example": "<span class='nom f sg'>Η Μαρία</span> είναι <span class='nom f sg'>φίλη</span> <span class='gen m sg'>του Κώστα</span>.",
+			"translation": "Maria is Kostas' friend.",
+			"source": "YOD0EBNOMu8"
+		},
+		{
+			"example": "<span class='nom f sg'>Η Μαρία</span> και <span class='nom m sg'>ο Κώστας</span> είναι <span class='nom m pl'>φίλοι</span>.",
+			"translation": "Maria and Kostas are friends.",
+			"source": "YOD0EBNOMu8"
+		},
+		{
+			"example": "<span class='nom f sg'>Η Μαρία</span> και <span class='nom m sg'>ο Κώστας</span> είναι <span class='nom m pl'>φίλοι</span> <span class='gen sg'>μου</span>.",
+			"translation": "Maria and Kostas are my friends.",
+			"source": "YOD0EBNOMu8"
+		},
+		{
+			"example": "<span class='nom f sg'>Η Μαρία</span> και <span class='nom m sg'>ο Κώστας</span> είναι <span class='nom m pl'>καλοί γιατροί</span>.",
+			"translation": "Maria and Kostas are good doctors.",
+			"source": "YOD0EBNOMu8"
+		},
+		{
+			"example": "<span class='nom m sg'>Ο Κώστας</span> είναι <span class='nom m sg'>ο γιατρός</span> <span class='gen f sg'>της Μαρίας</span>.",
+			"translation": "Kostas is Mary's doctor.",
+			"source": "YOD0EBNOMu8"
+		},
+		{
+			"example": "<span class='nom f sg'>Η Μαρία</span> είναι <span class='nom f sg'>φίλη</span> <span class='gen m sg'>του γιατρού</span>.",
+			"translation": "Maria is the doctor's friend.",
+			"source": "YOD0EBNOMu8"
+		},
+		{
+			"example": "<span class='nom m sg'>Ο γιατρός</span> <span class='gen f sg'>της Μαρίας</span> είναι <span class='nom m sg'>φίλος</span> <span class='gen sg'>μου</span>.",
+			"translation": "Maria's doctor is my friend.",
+			"source": "YOD0EBNOMu8"
+		},
+		{
+			"example": "Το είπες <span class='gen m sg'>του γιατρού</span>;",
+			"translation": "Did you tell the doctor?",
+			"source": "YOD0EBNOMu8"
+		},
+		{
+			"example": "Μίλα <span class='gen f sg'>της</span>.",
+			"translation": "Talk to her.",
+			"source": "YOD0EBNOMu8"
+		},
+		{
+			"example": "<span class='nom f pl'>Οι ημέρες</span> <span class='gen f sg'>της εβδομάδας</span>.",
+			"translation": "The days of the week.",
+			"source": "YOD0EBNOMu8"
+		},
+		{
+			"example": "<span class='nom n sg'>Το βιβλίο</span> είναι <span class='gen f sg'>της Μαρίας</span>.",
+			"translation": "The book is Maria's.",
+			"source": "YOD0EBNOMu8"
+		},
+		{
+			"example": "<span class='nom m sg'>Ο Κώστας</span> έχει <span class='acc m sg'>έναν σκύλο</span>.",
+			"translation": "Kostas has a dog.",
+			"source": "YOD0EBNOMu8"
+		},
+		{
+			"example": "<span class='nom f sg'>Η Μαρία</span> θέλει <span class='acc n sg'>παγωτό</span>.",
+			"translation": "Maria wants ice cream.",
+			"source": "YOD0EBNOMu8"
+		},
+		{
+			"example": "Έχω <span class='acc f sg'>δουλειά</span>.",
+			"translation": "I've got work.",
+			"source": "YOD0EBNOMu8"
+		},
+		{
+			"example": "<span class='gen m sg'>Του</span> <span class='acc n sg'>το</span> είπα.",
+			"translation": "I told him.",
+			"source": "YOD0EBNOMu8"
+		},
+		{
+			"example": "Πάμε <span class='acc n sg'>στο θέατρο</span>.",
+			"translation": "We are going to the theater.",
+			"source": "YOD0EBNOMu8"
+		},
+		{
+			"example": "Είδα <span class='acc n sg'>τον φίλο</span> <span class='gen sg'>μου</span>.",
+			"translation": "I saw my friend.",
+			"source": "YOD0EBNOMu8"
+		},
+		{
+			"example": "Δώσε <span class='gen sg'>μου</span> <span class='acc n sg'>το βιβλίο</span>.",
+			"translation": "Give me the book.",
+			"source": "YOD0EBNOMu8"
+		},
+		{
+			"example": "<span class='voc m sg'>Κώστα</span>, φέρε <span class='acc n sg'>το βιβλίο</span>!",
+			"translation": "Kostas, bring the book!",
+			"source": "YOD0EBNOMu8"
+		},
+		{
+			"example": "<span class='voc f sg'>Μαρία</span>! Έλα εδώ!",
+			"translation": "Maria! Come here!",
+			"source": "YOD0EBNOMu8"
+		},
+		{
+			"example": "Γεια σας, <span class='voc m pl'>φίλοι</span> <span class='gen sg'>μου</span>!",
+			"translation": "Hello, my friends!",
+			"source": "YOD0EBNOMu8"
+		},
+		{
+			"example": "<span class='voc f sg'>Αγαπητή Ελένη</span>...",
+			"translation": "Dear Eleni...",
+			"source": "YOD0EBNOMu8"
+		},
+		{
+			"example": "<span class='nom pl'>Εμείς</span> κολυμπήσαμε <span class='acc f sg'>στη θάλασσα</span>.",
+			"translation": "We swam in the sea.",
+			"source": "3606047"
+		},
+		{
+			"example": "Μην καπνίζετε σε <span class='acc n sg'>αυτό το δωμάτιο</span>.",
+			"translation": "Don't smoke in this room.",
+			"source": "2969371"
+		},
+		{
+			"example": "<span class='nom m sg'>Ο Τομ</span> πέταξε <span class='acc f sg'>την μπάλα</span> <span class='acc f sg'>στη Μαίρη</span>.",
+			"translation": "Tom threw Mary the ball.",
+			"source": "5443035"
+		},
+		{
+			"example": "<span class='nom n sg'>Αυτό</span> είναι <span class='nom n sg'>το άλογό</span> <span class='gen sg'>μου</span>.",
+			"translation": "This is my horse.",
+			"source": "4382731"
+		},
+		{
+			"example": "<span class='gen sg'>Σου</span> αρέσει <span class='acc n sg'>το κρασί</span>;",
+			"translation": "Do you like wine?",
+			"source": "5488523"
+		},
+		{
+			"example": "Μη κρίνεις <span class='acc n sg'>το βιβλίο</span> από <span class='acc n sg'>το εξώφυλλο</span>.",
+			"translation": "You can't judge a book by its cover.",
+			"source": "1503726"
+		},
+		{
+			"example": "Κρατάτε <span class='acc f pl'>σημειώσεις</span>;",
+			"translation": "Are you taking notes?",
+			"source": "5512512"
+		},
+		{
+			"example": "Αγόρασα <span class='acc f sg'>μια καινούρια τσάντα</span>.",
+			"translation": "I bought a new bag.",
+			"source": "5379831"
+		},
+		{
+			"example": "Νόμιζα πως ήσαστε <span class='nom f pl'>Καναδές</span>.",
+			"translation": "I thought you were Canadian.",
+			"source": "5607550"
+		},
+		{
+			"example": "<span class='nom m sg'>Ο αδερφός</span> <span class='gen sg'>μου</span> λέει ότι δε φοβάται <span class='acc n sg'>το σκοτάδι</span>.",
+			"translation": "My brother says he isn't afraid of the dark.",
+			"source": "5550047"
+		},
+		{
+			"example": "Τι θα μπορούσαν <span class='nom m pl'>αυτοί</span> να κάνουν σε <span class='acc f sg'>αυτή την περίσταση</span>;",
+			"translation": "What should they do in this situation?",
+			"source": "3264255"
+		},
+		{
+			"example": "Και <span class='nom m pl'>αυτοί</span> ξέμηναν από <span class='acc n pl'>χρήματα</span>.",
+			"translation": "They, too, were out of money.",
+			"source": "7347658"
+		}
+	]
+}
